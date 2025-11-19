@@ -24,16 +24,11 @@ This application requires Python 3 to run.
 
 Save the Code: Ensure the main code is saved as daily_helper.py.
 
-Open Terminal/Command Prompt: Navigate to the project directory where the file is located.
-
-Execute the Script: Run the following command:
-
-Bash
-python daily_helper.py
 
 📸 Project Screenshots
 The screenshots/ directory contains visual proof of the application running, including:
 
 The main menu screen.
 The output after successfully adding a few tasks.
+
 An example of a task being deleted, confirming the functionality.
